@@ -1,6 +1,6 @@
 📖 Introducción
 ==========
-ChaOS es una herramienta profesional que automatiza la detección y prueba de vulnerabilidades en redes inalámbricas mediante ataques de deautenticación. Utilizando herramientas como MDK4 y Airodump-ng, ChaOS permite verificar si tu red WiFi es vulnerable a este tipo de ataques de forma rápida y sencilla.
+ChaOS es una herramienta que automatiza la detección y prueba de vulnerabilidades en redes inalámbricas mediante ataques de deautenticación. Utilizando herramientas como MDK4 y Airodump-ng, ChaOS permite verificar si tu red WiFi es vulnerable a este tipo de ataques de forma rápida y sencilla.
 
 
 ⚠️ IMPORTANTE - ADVERTENCIA LEGAL

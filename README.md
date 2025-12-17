@@ -9,8 +9,6 @@ Esta herramienta está diseñada EXCLUSIVAMENTE para:
 
 ✅ Pruebas de seguridad en redes propias
 
-✅ Auditorías de seguridad con autorización escrita
-
 ✅ Educación en ciberseguridad en entornos controlados
 
 🚫 El uso no autorizado es ILEGAL y puede acarrear consecuencias penales.

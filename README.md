@@ -27,9 +27,30 @@ Detección automática de redes WiFi disponibles
 
 📶 Ataque por canal - Afecta todas las redes en un canal específico
 
-🛠️ Paquetes y Dependencias
+🛠️ Instalación
 ==========
 Sistemas Debian, Ubuntu, linux Mint
 ``` shell
 sudo apt update && sudo apt install mdk4 git wireless-tools iw aircrack-ng
+```
+
+
+📥 Paso 1: Clonar el Repositorio
+```shell
+git clone https://github.com/Zack-Encode/ChaOS
+```
+
+📂 Paso 2: Acceder al Directorio
+```shell
+cd ChaOS
+```
+
+🔒 Paso 3: Otorgar Permisos de Ejecución
+```shell
+chmod +x ChaOS.sh
+```
+
+⚡ Paso 4: Ejecutar la Herramienta
+```shell
+sudo ./ChaOS.sh
 ```
